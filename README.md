@@ -1,5 +1,6 @@
 # EfficientNet_EarlyExit
 This repository contains scripts for training multi-exit EfficientNet model on ImageNet.
+
 with help from EfficientNet paper:
 https://arxiv.org/abs/1905.11946
 
