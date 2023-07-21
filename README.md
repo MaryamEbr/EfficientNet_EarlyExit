@@ -1,10 +1,12 @@
 # EfficientNet_EarlyExit
 This repository contains scripts for training multi-exit EfficientNet model on ImageNet.
 
-with help from EfficientNet paper:
+with help from:
+
+EfficientNet paper
 https://arxiv.org/abs/1905.11946
 
-and PyTorch EfficientNet repository:
+PyTorch EfficientNet repository
 https://pytorch.org/vision/main/models/efficientnet.html
 
 This is done as a part of a research project about early exiting and partitioning. 
